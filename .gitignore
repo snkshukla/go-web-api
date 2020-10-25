@@ -1,0 +1,5 @@
+.air.toml
+main
+tmp
+.env
+dump.rdb
